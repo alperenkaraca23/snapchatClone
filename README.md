@@ -10,3 +10,12 @@
 
 <li> Afterwards, I made an upload page to share snaps. </li>
 <li> Finally, I completed my application by creating a settings page that includes a logout button. </li>
+
+
+
+https://github.com/user-attachments/assets/c6221e42-172c-4075-b4dd-accc2a8681ae
+
+<img width="1362" alt="Ekran Resmi 2024-11-28 12 02 58" src="https://github.com/user-attachments/assets/c3f230f3-966b-443c-a981-7d2b6975ca29">
+<img width="1369" alt="Ekran Resmi 2024-11-28 12 02 29" src="https://github.com/user-attachments/assets/36b9d0ae-86e3-401d-bf6d-53f8c1d92407">
+
+
